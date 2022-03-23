@@ -1,0 +1,7 @@
+Hello
+My name is Amy
+We are learning Git
+We are also learning   Github
+It's sunny today
+Nie to see you
+Bye
